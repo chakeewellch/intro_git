@@ -3,3 +3,4 @@ pushまでやってみよう！！！
 ・git rm
 ・git add
 ・git commit
+・git status
